@@ -23,4 +23,5 @@ namespace Domain.Entities
         public DateTime UpdatedAt { get; set; }
 
     }
+
 }
